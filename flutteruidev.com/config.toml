@@ -1,0 +1,3 @@
+baseURL = "http://flutteruidev.com/"
+title = "Flutter UI Development"
+theme = "tale-hugo"
