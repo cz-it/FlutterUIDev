@@ -5,10 +5,21 @@
     <link>http://flutteruidev.com/posts/</link>
     <description>Recent content in Posts on Flutter UI Development</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Jul 2019 11:32:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 11:32:25 +0800</lastBuildDate>
     
 	<atom:link href="http://flutteruidev.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flutter In Focus No.1</title>
+      <link>http://flutteruidev.com/posts/flutterinfocus/flutter_in_focus_no1/</link>
+      <pubDate>Sat, 20 Jul 2019 11:32:25 +0800</pubDate>
+      
+      <guid>http://flutteruidev.com/posts/flutterinfocus/flutter_in_focus_no1/</guid>
+      <description>&lt;p&gt;《Flutter In Focus》 系列是Flutter团队在其YouTube分享的Flutter入门教学视频，
+这里CZ将其增加了中英文字幕并从Youtube搬到了国内，在Youku上Google团队也分享了类似
+视频和中文字幕，但是其并没有英文字幕，为了补充所以CZ制作了这个系列。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>关于</title>
