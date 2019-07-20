@@ -14,7 +14,9 @@ author: CZ
 《Introducing Flutter in Focus》 是该系列的开篇。
 
 
-<iframe height="405" width="720" src="https://works.gaiamount.com/works/share/103916" frameborder="0" allowfullscreen allow="geolocation;encrypted-media;microphone;camera;midi"></iframe>
+<iframe height=405 width=720 src='http://player.youku.com/embed/XNDI4MDA5MTc3Mg==' frameborder=0 'allowfullscreen'></iframe>
 
 [备用链接：YouKu](https://v.youku.com/v_show/id_XNDI4MDA5MTc3Mg==.html?spm=a2h3j.8428770.3416059.1)
+ | [备用链接2](https://works.gaiamount.com/works/share/103916)
+
 
